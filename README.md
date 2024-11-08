@@ -3,13 +3,18 @@
 ## Pravidla
 
 Cíl hry je nasbírat co nejdvíce bodů pro svůj tým.
-Body se získavají zabíráním bojišť.
+Body se získavají zabíráním bojišť a plněním výzev.
 
 ### Uspořádání hráčů
 
 Hráči jsou rozděleni do dvou týmů, jeden označený červenou a druhý modrou barvou.
 V rámci týmu jsou hráši rozděleni do meněích skupinek, které se pohybují vždy spolu a nerozdělujíce.
 Tyto menší skupinky je možné měnit na oživovišti, ale žádná skupinka nesmí mít méňě než dva členy.
+
+### Herní území
+
+Hra probíhá na zalesněném území Záruby.
+Je zakázáno opouštět herní území a chodit na svah za paloučkem.
 
 ### Bojiště
 
